@@ -84,4 +84,9 @@
             [`vim commands`](/notes/임베디드시스템및실습%20vim%20commands.pdf)
             [`linux commands`](/notes/임베디드시스템및실습%20linux%20commands.pdf)
     * 2학기
-        * on going
+        * 수치해석
+            [`part1`](/notes/수치해석%20part1.pdf)
+            [`part2`](/notes/수치해석%20part2.pdf)
+        * 정보보안
+            [`part1`](/notes/정보보안%20part1.pdf)
+            [`part2`](/notes/정보보안%20part2.pdf)
